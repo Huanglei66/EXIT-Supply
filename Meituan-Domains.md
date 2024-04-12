@@ -9,7 +9,7 @@ The homepage recommendation domain displays items in the form of a feed stream.
 ## Search Domain
 The search domain meets users' search requirements, delivering a list of items that match users' search keywords. Users can type in keywords in the search box located at the top of the Meituan app's homepage. After clicking the search button, they'll be directed to the item detail page which lists items related to their search terms.
 
-<img src="https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/search-domains.png" alt="search domain" width="500" height="auto">
+<img src="https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/search-domain.png" alt="search domain" width="500" height="auto">
 
 
 ## Channel Section Domain
