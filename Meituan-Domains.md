@@ -1,6 +1,6 @@
 # EXIT-Supply
 
-The homepage recommendation domain displays items in the form of a feed stream.![image](https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/domains2.pdf)
+The homepage recommendation domain displays items in the form of a feed stream.![image](https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/figures.png)
 
 Every icon in the Channel Section domain signifies a different service offered by Meituan. Users can access the detailed page which lists items of the corresponding service by clicking on these icons. 
 
