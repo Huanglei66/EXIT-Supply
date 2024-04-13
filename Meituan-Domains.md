@@ -11,7 +11,7 @@ The search domain meets users' search requirements, delivering a list of items t
 
 For example, if a user types in 'starbucks' and clicks the search button, they'll be directed to the detail page for Starbucks items. Any orders placed on this detailed page would be considered as orders made through the search domain.
 
-<img src="https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/search-domain.png" alt="search domain" width="500" height="auto">
+<img src="https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/search-domain.png" alt="search domain" width="700" height="auto">
 
 
 ## Channel Section Domain
@@ -19,4 +19,4 @@ Every icon in the channel section domain signifies a different service offered b
 
 For example, if a user clicks on the "Discount Group Buy" icon in the channel section, they'll be directed to the detail page for discount group buy items. Any orders placed on this detailed page would be considered as orders made through the channel section domain.
 
-<img src="https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/channel-section-domain.png" alt="channel domain" width="500" height="auto">
+<img src="https://github.com/Huanglei66/EXIT-Supply/blob/main/Figures/channel-section-domain.png" alt="channel domain" width="700" height="auto">
