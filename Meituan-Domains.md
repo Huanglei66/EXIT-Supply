@@ -1,4 +1,4 @@
-#  Representative business domains on Meituan app
+#  Representative business domains on the Meituan app
 
 ## Homepage Recommendation Domain
 The homepage recommendation domain displays items in the form of a feed stream. Once users land on the Meituan homepage, they can see the recommended items directly without having to click anything.
